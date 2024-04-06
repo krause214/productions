@@ -1,0 +1,153 @@
+{
+  "productionList" : [ {
+    "conjunctionConditionList" : [ "студент учится на бюджете", "студент закончил сесестр без троек" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "студент получит стипендию в следующем семестре",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "выпало много снега" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "студенту будет трудно найти парковочное место",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "студент не выспался" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "студент будет спать на лекциях",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "студент хорошо подготовлся к экзамену" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "студент имеет высокие шансы сдать экзамен",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "студент живет в общежитии" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "студент проще добирается до учебы",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "студент заболел" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "студент не придет на пары",
+    "counter" : 1
+  }, {
+    "conjunctionConditionList" : [ "студент забыл пропуск" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "студента пустят в университет по паспорту",
+    "counter" : 3
+  }, {
+    "conjunctionConditionList" : [ "человек работает преподавателем в университете" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "человек имеет высшее образование",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "студент учится в аспирантуре" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "человек работает преподавателем в университете",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "человек является директором института" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "у человека есть свой кабинет в университете",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "сегодня воскресенье" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "студент не придёт на пары",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "студент забыл ручку", "cтуденту нужно писать конспект" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "студент попросит ручку у одногруппников",
+    "counter" : 2
+  }, {
+    "conjunctionConditionList" : [ "студент проспал" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "студент опоздает на занятия",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "школьник сдал егэ на 300 баллов" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "школьник имеет высокие шансы на поступление в ижгту",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "студент умеет программировать" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "студент скорее всего учится на факультете иивт",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "преподаватель ставит оценку отлично на экзамене" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "студент хорошо знает предмет",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "сегодня 1 сентября" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "первокурсникам проводят экскурсию",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "студент не ходит на пары" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "студент будет отчислен",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "в ручке закончились чернила" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "ручка не пишет",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "сейчас август" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "студентам на очном обучении занятия не проводят",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "студент занял первое место в конкурсе на повышенную стипендию" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "студент будет получать повышенную стипендию",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "преподаватель пообедал" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "преподаватель во время второй пары не будет голоден",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "студент неправильно оформил курсовую работы" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "курсовую работу не примут",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "выпускная работа не достаточно объемная" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "выпускная работа не будет допущена к защите",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "человек является директором высшего заведения" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "человек является специалистом с учёной степенью",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "большинство студентов в группе болеют" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "группа закрыта на карантин",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "группа закрыта на карантин" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "занятия для группы проводятся онлайн",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "сейчас ночь" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "студент не придёт на пары",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "человек впервые учится в высшем учебном заведении" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "человек не имеет диплома о высшем образовании",
+    "counter" : 0
+  }, {
+    "conjunctionConditionList" : [ "занятие проводится в 204 кабинете ижгту" ],
+    "disjunctionConditionList" : [ ],
+    "consequence" : "в учебном кабинете есть компьютеры",
+    "counter" : 0
+  } ]
+}
